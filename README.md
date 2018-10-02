@@ -16,8 +16,7 @@ Contributors Wanted
 -------------------
 
 **This project is not under active development.** Contributions are strongly
-desired to resolve compatibility problems on newer systems, address bugs, and
-improve platform support for various features.
+desired to resolve compatibility 
 
 
 Examples
