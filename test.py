@@ -7,4 +7,4 @@ print("stests")
 >>>>>>> origin/master
 =======
 print("stestsssssss")
->>>>>>> origin/master
+
