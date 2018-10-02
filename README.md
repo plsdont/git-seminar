@@ -1,7 +1,6 @@
 Seminar
 =======
 
-[![Build Status](https://travis-ci.org/pybluez/pybluez.svg?branch=master)](https://travis-ci.org/pybluez/pybluez)
 
 The PyBluez module allows Python code to access the host machine's Bluetooth
 resources.
