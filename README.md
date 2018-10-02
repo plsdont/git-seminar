@@ -108,6 +108,23 @@ for Bluetooth Low Energy support:
 
     pip install -e .\[ble\]
 
+Configuration
+------------
+
+Use 
+
+    cp -r /home/pi/.node-red /home/pi/git-raspi/piconfig-seminar/node-red
+
+    pip install pybluez\[ble\]
+
+For source installation:
+
+    python setup.py install
+
+for Bluetooth Low Energy support:
+
+    pip install -e .\[ble\]    
+
 ### Build Requirements
 
 #### GNU/Linux
