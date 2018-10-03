@@ -64,17 +64,43 @@ Configuration
 
 Use 
 
-    cp -r /home/pi/.node-red /home/pi/git-raspi/piconfig-seminar
+    $ cp -r /home/pi/.node-red /home/pi/git-raspi/piconfig-seminar
 
-    pip install 
 
 Node-red Restore Flow
 
-    sudo cp -r /home/pi/git-raspi/piconfig-seminar/node-red/.node-red/* /home/pi/.node-red
+    $ sudo cp -r /home/pi/git-raspi/piconfig-seminar/node-red/.node-red/* /home/pi/.node-red
+ 
 
-for Bluetooth Low Energy support:
+Node-Red
+------------
+Run
 
-    pip install -e .\[ble\]    
+    $ node-red-start
+
+Auto start on boot
+
+    $ sudo systemctl enable nodered.service
+
+Node-red Restore Flow
+
+    $ sudo cp -r /home/pi/git-raspi/piconfig-seminar/node-red/.node-red/* /home/pi/.node-red
+
+InfluxDB
+------------
+Run
+
+    $ 
+
+Check DB size
+
+    $ sudo du -sh /var/lib/influxdb/data/staticsensor
+
+Delete data in measurements
+
+     DELETE FROM "sensor_1"
+>    DELETE FROM "sensor_2"
+     
 
 ### Build Requirements
 
