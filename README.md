@@ -64,7 +64,7 @@ Configuration
 
 Use 
 
-    cp -r /home/pi/.node-red /home/pi/git-raspi/piconfig-seminar/node-red
+    cp -r /home/pi/.node-red /home/pi/git-raspi/piconfig-seminar
 
     pip install 
 
