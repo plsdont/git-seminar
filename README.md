@@ -43,13 +43,13 @@ Installation
 
 Use pip (there are also binaries for Windows platform on PyPI or here - [Unofficial Windows Binaries for Python Extension Packages](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pybluez)):
 
-    pip install pybluez
+    pip install 
 
 For experimental Bluetooth Low Energy support(only for Linux platform -
 for additional dependencies please take look at:
 [ble-dependencies](https://bitbucket.org/OscarAcena/pygattlib/src/45e04060881a20189412681f52d55ff5add9f388/DEPENDS?at=default)):
 
-    pip install pybluez\[ble\]
+    pip install 
 
 For source installation:
 
@@ -57,7 +57,7 @@ For source installation:
 
 for Bluetooth Low Energy support:
 
-    pip install -e .\[ble\]
+    pip install 
 
 Configuration
 ------------
@@ -66,7 +66,7 @@ Use
 
     cp -r /home/pi/.node-red /home/pi/git-raspi/piconfig-seminar/node-red
 
-    pip install pybluez\[ble\]
+    pip install 
 
 For source installation:
 
@@ -100,8 +100,7 @@ for Bluetooth Low Energy support:
 -   Python 2.3 or later
 -   Xcode
 -   PyObjc 3.1b or later
-    (<https://pythonhosted.org/pyobjc/install.html#manual-installation>)
-
+    
 
 License
 -------
