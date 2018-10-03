@@ -99,7 +99,8 @@ Check DB size
 Delete data in measurements
 
      DELETE FROM "sensor_1"
->    DELETE FROM "sensor_2"
+     DELETE FROM "sensor_2"  
+      
      
 
 ### Build Requirements
