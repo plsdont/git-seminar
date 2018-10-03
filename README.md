@@ -68,9 +68,9 @@ Use
 
     pip install 
 
-For source installation:
+Node-red Restore Flow
 
-    python setup.py install
+    sudo cp -r /home/pi/git-raspi/piconfig-seminar/node-red/.node-red/* /home/pi/.node-red
 
 for Bluetooth Low Energy support:
 
