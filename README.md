@@ -115,6 +115,9 @@ Chronograf
 Grafana
 ------------
 Run
+  
+  custom 
+  http://docs.grafana.org/installation/debian/
 
 -   Installs HTML/JS/CSS and other Grafana files at /usr/share/grafana
  
