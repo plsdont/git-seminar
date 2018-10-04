@@ -116,7 +116,8 @@ Grafana
 ------------
 Run
 
-    $ 
+-   Installs HTML/JS/CSS and other Grafana files at /usr/share/grafana
+ 
 
 Plugin
 
