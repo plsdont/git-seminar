@@ -76,7 +76,7 @@ Node-Red
 ------------
 Install
 
-    Please file bugs to the [Install][bugs]. Questions can be asked on the
+    [Unofficial Windows Binaries for Python Extension Packages](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pybluez):
 
 [bugs]: https://nodered.org/docs/hardware/raspberrypi
 
