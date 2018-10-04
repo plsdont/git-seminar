@@ -53,7 +53,7 @@ for additional dependencies please take look at:
 
 For source installation:
 
-    python setup.py install
+    python 
 
 for Bluetooth Low Energy support:
 
