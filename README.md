@@ -76,9 +76,7 @@ Node-Red
 ------------
 Install
 
-[Unofficial Windows Binaries for Python Extension Packages](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pybluez):
-
-[bugs]: https://nodered.org/docs/hardware/raspberrypi
+[Node-red Install](https://nodered.org/docs/hardware/raspberrypi):
 
 Run
 
