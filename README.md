@@ -120,17 +120,17 @@ Run
 
 Plugin
 
-     grafana-cli plugins install neocat-cal-heatmap-panel
-     grafana-cli plugins install briangann-gauge-panel
-     grafana-cli plugins install natel-discrete-panel
-     grafana-cli plugins install mtanda-heatmap-epoch-panel
-     grafana-cli plugins install savantly-heatmap-panel
-     grafana-cli plugins install vonage-status-panel
-     grafana-cli plugins install grafana-simple-json-datasource
-     grafana-cli plugins install bessler-pictureit-panel
-     grafana-cli plugins install grafana-piechart-panel
-     grafana-cli plugins install grafana-worldmap-panel
-     grafana-cli plugins install btplc-status-dot-panel  
+     sudo grafana-cli plugins install neocat-cal-heatmap-panel &&
+     sudo grafana-cli plugins install briangann-gauge-panel &&
+     sudo grafana-cli plugins install natel-discrete-panel &&
+     sudo grafana-cli plugins install mtanda-heatmap-epoch-panel &&
+     sudo grafana-cli plugins install savantly-heatmap-panel &&
+     sudo grafana-cli plugins install vonage-status-panel &&
+     sudo grafana-cli plugins install grafana-simple-json-datasource &&
+     sudo grafana-cli plugins install bessler-pictureit-panel &&
+     sudo grafana-cli plugins install grafana-piechart-panel &&
+     sudo grafana-cli plugins install grafana-worldmap-panel &&
+     sudo grafana-cli plugins install btplc-status-dot-panel &&
       
 
 ### Build Requirements
