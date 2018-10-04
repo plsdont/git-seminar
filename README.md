@@ -104,7 +104,14 @@ Delete data in measurements
 
      DELETE FROM "sensor_1"
      DELETE FROM "sensor_2"  
-      
+
+
+Chronograf
+
+    $ sudo wget https://dl.influxdata.com/chronograf/nightlies/chronograf_nightly_armhf.deb
+    $ sudo dpkg -i chronograf_nightly_armhf.deb
+    $ sudo systemctl start chronograf
+
 Grafana
 ------------
 Run
