@@ -74,6 +74,12 @@ Node-red Restore Flow
 
 Node-Red
 ------------
+Install
+
+    Please file bugs to the [Install][bugs]. Questions can be asked on the
+
+[bugs]: https://nodered.org/docs/hardware/raspberrypi
+
 Run
 
     $ node-red-start
