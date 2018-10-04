@@ -134,7 +134,8 @@ Plugin
      sudo grafana-cli plugins install bessler-pictureit-panel &&
      sudo grafana-cli plugins install grafana-piechart-panel &&
      sudo grafana-cli plugins install grafana-worldmap-panel &&
-     sudo grafana-cli plugins install btplc-status-dot-panel
+     sudo grafana-cli plugins install btplc-status-dot-panel &&
+     sudo grafana-cli plugins install grafana-clock-panel
       
 
 ### Build Requirements
